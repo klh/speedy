@@ -1,4 +1,0 @@
-interface:
-  display_name: "Docker"
-  short_description: "Docker workflows for containers, Compose, and Buildx"
-  default_prompt: "Use $docker to diagnose and fix my Docker workflow."
